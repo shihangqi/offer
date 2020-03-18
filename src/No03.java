@@ -5,6 +5,8 @@
  */
 
 
+import sun.security.util.Length;
+
 import java.util.Arrays;
 
 /**
@@ -42,6 +44,14 @@ public class No03 {
         return -1;
     }
 
+    /**
+     *
+     * 这个是第二个交换位置的方法
+     *
+     * @param numbers
+     * @param length
+     * @return
+     */
 
     public static int process2(int numbers[],int length){
 
