@@ -12,7 +12,6 @@ public class No02 {
 
         C.getInstance();
 
-
         System.out.println(C.getInstance());
     }
 }
