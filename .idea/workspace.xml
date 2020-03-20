@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22198918-b31a-487b-bde5-1c0286fff886" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,40 +22,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/剑指offer/No04.txt">
+        <entry file="file://$PROJECT_DIR$/src/No10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/剑指offer/No04.class">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/No06.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="368">
+              <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#432#441#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/No07.java">
+        <entry file="file://$PROJECT_DIR$/src/No11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="482">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -64,25 +48,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/No08.java">
+        <entry file="file://$PROJECT_DIR$/src/No12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            <state relative-caret-position="228">
+              <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
               <folding>
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/No13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/No09.java">
+        <entry file="file://$PROJECT_DIR$/src/No14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+            <state relative-caret-position="19">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,6 +111,11 @@
         <option value="$PROJECT_DIR$/src/No07.java" />
         <option value="$PROJECT_DIR$/src/No08.java" />
         <option value="$PROJECT_DIR$/src/No09.java" />
+        <option value="$PROJECT_DIR$/src/No10.java" />
+        <option value="$PROJECT_DIR$/src/No11.java" />
+        <option value="$PROJECT_DIR$/src/No12.java" />
+        <option value="$PROJECT_DIR$/src/No13.java" />
+        <option value="$PROJECT_DIR$/src/No14.java" />
       </list>
     </option>
   </component>
@@ -203,28 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No09">
-    <configuration name="No04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No04" />
-      <module name="剑指offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No05" />
-      <module name="剑指offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No06" />
-      <module name="剑指offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.No14">
     <configuration name="No07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No07" />
       <module name="剑指offer" />
@@ -239,13 +220,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="No10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No10" />
+      <module name="剑指offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No11" />
+      <module name="剑指offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No14" />
+      <module name="剑指offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No14" />
+        <item itemvalue="Application.No11" />
+        <item itemvalue="Application.No10" />
         <item itemvalue="Application.No09" />
         <item itemvalue="Application.No07" />
-        <item itemvalue="Application.No06" />
-        <item itemvalue="Application.No05" />
-        <item itemvalue="Application.No04" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +265,7 @@
       <workItem from="1584413110336" duration="750000" />
       <workItem from="1584511529026" duration="14329000" />
       <workItem from="1584545001699" duration="37000" />
-      <workItem from="1584580400553" duration="7135000" />
+      <workItem from="1584580400553" duration="25219000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1584518986332</created>
@@ -286,11 +288,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584545037643</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="No06，No07，No08，No09">
+      <created>1584588296675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584588296675</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25766000" />
+    <option name="totallyTimeSpent" value="43850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -305,7 +314,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22749591" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22913256" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.19476268" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -334,7 +343,8 @@
     <MESSAGE value="第一次提交" />
     <MESSAGE value="No03和No04" />
     <MESSAGE value="No05" />
-    <option name="LAST_COMMIT_MESSAGE" value="No05" />
+    <MESSAGE value="No06，No07，No08，No09" />
+    <option name="LAST_COMMIT_MESSAGE" value="No06，No07，No08，No09" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/No02.java">
@@ -513,10 +523,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/No09.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+        <state relative-caret-position="279">
+          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
           </folding>
         </state>
       </provider>
