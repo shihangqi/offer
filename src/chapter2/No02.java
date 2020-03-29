@@ -1,3 +1,5 @@
+package chapter2;
+
 /**
  * 实现Singleton模式
  */
