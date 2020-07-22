@@ -24,8 +24,6 @@ public class No42 {
             if (curSum > maxSum) maxSum = curSum;
         }
         return maxSum;
-        String s =new String();
-        s.toCharArray();
     }
 
 }
